@@ -5,7 +5,7 @@ my rust sandbox on Docker
 
 ```
 $ docker build -t rust-sandbox .
-$ docker run -e hello_world -t rust-sandbox
+$ docker run -e hello_world -it rust-sandbox
    Compiling hello_world v0.1.0 (file:///projects/hello_world)
     Finished dev [unoptimized + debuginfo] target(s) in 0.52 secs
      Running `target/debug/hello_world hello_world`
