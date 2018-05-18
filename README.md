@@ -1,6 +1,8 @@
 # docker-rust-sandbox
 my rust sandbox on Docker
 
+Japanese online book: https://rust-lang-ja.github.io/the-rust-programming-language-ja/1.6/book/
+
 ## Usage
 
 ```
