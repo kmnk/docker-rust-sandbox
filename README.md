@@ -18,7 +18,7 @@ $ docker run -it \
 -v $(pwd)/projects:/projects \
 -v $(pwd)/.cargo/registry:/usr/local/cargo/registry \
 rust-sandbox
-# ls
+root@0123456789ab:/projects# ls
 hello_world ...
 ```
 
